@@ -1,0 +1,2 @@
+# NahidaAPI
+一个基于QQ官方openAPI支持插件加载的QQBot框架
